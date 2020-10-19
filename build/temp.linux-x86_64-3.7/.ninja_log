@@ -1,0 +1,9 @@
+# ninja log v5
+0	52	1602980678073291660	/home/hugo/Source/trt_pose/build/temp.linux-x86_64-3.7/trt_pose/parse/refine_peaks.o	f7eba22de3ae62fe
+0	57	1602980678077291582	/home/hugo/Source/trt_pose/build/temp.linux-x86_64-3.7/trt_pose/parse/find_peaks.o	e3514d42ca95d81d
+0	101	1602980678121290717	/home/hugo/Source/trt_pose/build/temp.linux-x86_64-3.7/trt_pose/parse/paf_score_graph.o	db4e607688748089
+0	217	1602980678237288436	/home/hugo/Source/trt_pose/build/temp.linux-x86_64-3.7/trt_pose/parse/connect_parts.o	65ebd8664c6ddc44
+0	592	1602980678613281044	/home/hugo/Source/trt_pose/build/temp.linux-x86_64-3.7/trt_pose/parse/munkres.o	a93c1a14ae47111b
+1	11157	1602980689173073460	/home/hugo/Source/trt_pose/build/temp.linux-x86_64-3.7/trt_pose/train/generate_cmap.o	9dfba749cc5e6ac2
+1	11357	1602980689377069451	/home/hugo/Source/trt_pose/build/temp.linux-x86_64-3.7/trt_pose/train/generate_paf.o	8a48075a06e27eb2
+0	14019	1602980692037017176	/home/hugo/Source/trt_pose/build/temp.linux-x86_64-3.7/trt_pose/plugins.o	dbc30073866ed86f
