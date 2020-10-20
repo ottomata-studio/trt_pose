@@ -41,6 +41,11 @@ cd trt_pose
 sudo python3 setup.py install
 ```
 
+If you are in Conda and use TensorRT on your system wide Python3.6 installation, run this command in conda in order to have access to the correct libraries.
+```python
+export PYTHONPATH=/usr/lib/python3.6/dist-packages:$PYTHONPATH
+```
+
 ### Step 3 - Run the example notebook
 
 We provide a couple of human pose estimation models pre-trained on the MSCOCO dataset.  The throughput in FPS is shown for each platform
